@@ -1,2 +1,2 @@
 # first-demo
-this is first git rep.
+this is first git repository.
